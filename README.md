@@ -7,3 +7,6 @@
 
 ## AIGC
 * Ho J, Jain A, Abbeel P. Denoising diffusion probabilistic models[J]. Advances in neural information processing systems, 2020, 33: 6840-6851. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf) [[code]](https://proceedings.neurips.cc/paper_files/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf)
+
+## Adversarial Attack
+* Zhao M, Zhang L, Ye J, et al. Adversarial training: A survey[J]. arXiv preprint arXiv:2410.15042, 2024. [[paper]](https://arxiv.org/pdf/2410.15042)
